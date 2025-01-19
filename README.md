@@ -1,1 +1,2 @@
 # Stockdata
+As a Data Analyst working for a new startup investment firm, one role is to helps customers invest their money in stocks. My job is to extract financial data like historical share price and quarterly revenue reporting from various sources using Python libraries and web scraping on popular stocks. After collecting this data I visualized it in a dashboard to identify patterns or trends. I utilized JupyterLab running on the Cloud in Skills Network Labs environment.
