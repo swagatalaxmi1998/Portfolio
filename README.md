@@ -1,2 +1,3 @@
-# Stockdata
-As a Data Analyst working for a new startup investment firm, one role is to helps customers invest their money in stocks. My job is to extract financial data like historical share price and quarterly revenue reporting from various sources using Python libraries and web scraping on popular stocks. After collecting this data I visualized it in a dashboard to identify patterns or trends. I utilized JupyterLab running on the Cloud in Skills Network Labs environment.
+# Swagatalaxmi Das-  Data analysis portfolio
+I have background in Geo-Infomation and Earth Observation and am currently on track to completing my degree in Data Science with Course IBM professional certficate for Data Analyst. 
+Throughout my academic career, I have developed a strong foundation in Geograohic Information System and Remote Sensing and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
