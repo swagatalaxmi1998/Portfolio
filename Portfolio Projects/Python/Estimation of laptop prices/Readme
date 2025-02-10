@@ -1,1 +1,24 @@
-This file contains 
+# Overview
+This project analyzes and predicts laptop prices using machine learning techniques. The dataset contains various specifications of laptops, such as screen size, RAM, weight, processor type, and more. The workflow is divided into three main sections:
+
+* Data Wrangling
+* Exploratory Data Analysis (EDA)
+* Model Development
+
+# Data cleaning
+In this phase, I have cleaned and preprocessed the dataset to prepare it for analysis.
+
+* Data Loading
+Loaded the dataset using pd.read_csv(filepath, header=0).
+Displayed the dataset's structure using .info() and .head().
+
+* Handling Missing Data
+ * Identified missing values using .isnull().
+ * Calculated mean for missing values in the "Weight_kg" column using .mean().
+ * Filled missing "Weight_kg" values with the column's mean using .replace(np.nan, avg_weight, inplace=True).
+ * Replaced "Screen_Size_cm" parameter using .idmax(). 
+ * Dropped irrelevant or highly missing columns using .drop(columns=['Unnamed: 0'], inplace=True).
+
+Feature Engineering
+Rounded the "Screen_Size_cm" column values to two decimal places using np.round().
+Created a new feature "Total_Asset_Value" as a combination of "Price" and "RAM_Size" to assess price-per-GB.
