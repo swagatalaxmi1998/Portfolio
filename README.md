@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 * [Portfolio Projects](#)
 
-   * [Python](#)
+   * [Python](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/Python)
 
 # 📚 Education
 
