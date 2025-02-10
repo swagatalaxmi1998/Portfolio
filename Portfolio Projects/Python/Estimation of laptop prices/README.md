@@ -55,12 +55,27 @@ Parameters `GPU`, `CPU_core`, and `Price` are grouped to make a pivot table and 
 
 ## Model Development
 
-###Techniques used 🧰
+### Techniques used 🧰
 - Cross-validation
 - Ridge Regression
 - Grid search using `GridSearchCV`
+- Standardized features using `StandardScaler().fit_transform(df[['RAM_Size', 'Weight_kg']]`
+- 
+### Simple linear regression
+`CPU_frequency` was identified as the feature with the **lowest p-value**. A **simple linear regression** model was built using `LinearRegression().fit(X_train, y_train)` for `CPU_frequency` as the sole predictor.  
 
-Model perfor
+### Ridge regression 
+- To improve predictive accuracy, a regression using multiple variables was then performed by incorporating: `RAM_GB`, `Storage_GB_SSD`, `CPU_core`, `OS`, `GPU`, and `Category` using `Ridge(alpha=1.0).fit(X_train, y_train)`.  
+- Different values of `hyperparameter` alpha (0.001 to 1) to evaluate the model’s performance on training and test data.
 
+### GridSearchCV
+- Tested six different `alpha` values to find the optimal one.
+- Best Ridge Regression model `BestRR` from a GridSearchCV `Grid1` process.
 
+### Results
+- `R²` score: **0.1344** → Only **13.44% of the variance** in `Price` is explained by `CPU_frequency`: only `CPU_frequency` is insufficient to predict `Price` accurately.
+- Train Score (0.634) > Test Score (0.371) → Indicating overfitting at lower alpha values.
+- Using `GridSearch`, the best alpha value explains 24.48% of the variance in `Price` using the selected features.
 
+## Conslusion
+This project demonstrates how regression models help analyze features like `RAM_GB`, `CPU_core`, and `Storage_GB_SSD` that influence laptop prices. While single-variable models were insufficient, multiple regression improved accuracy, demonstrating machine learning’s ability to handle complex data and optimize predictions. Further refinements could include advanced algorithms, incorporating additional features to improve model interpretability
