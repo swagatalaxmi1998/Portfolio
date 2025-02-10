@@ -9,13 +9,21 @@ Whether collaborating with a team or working independently, I am always enthusia
 
 This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Data Science-related topics.
 
-#📌 Table of Contents
+📌 Table of Contents
 
 * [Portfolio Projects](#)
 
    * [Python](#)
 
 # 📚 Education
+
+* University of Twente, The Netherlands - Master's in Geo-Information and Earth Observation (August 2022 - July 2024)
+* Savitribai Phule Pune University, India - Master's in Geography (Specialization in Geomorphology) (August 2019 - May 2021)
+* Presiency University, India - Bachelor's in Geography (August 2016 - June 2019)
+
+# Certificates
+
+*  Spatial Data Science: The New Frontier in Analytics
 
 # Contact
 
