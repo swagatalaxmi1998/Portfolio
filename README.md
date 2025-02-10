@@ -5,7 +5,8 @@ In my free time, I enjoy playing around with the data analysis tools. I am alway
 Whether collaborating with a team or working independently, I am always enthusiastic for uncovering insights exploring and extracting meanings from data to tackle complex challenges.
 
 
-📝 **[My CV (PDF)](https://github.com/your-username/your-repository/blob/main/Swagatalaxmi%20Das%20CV.pdf](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Swagatalaxmi%20Das%20CV.pdf)](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Swagatalaxmi%20Das%20CV.pdf)**
+[My CV (PDF)](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Swagatalaxmi%20Das%20CV.pdf)
+
 
 
 This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Data Science-related topics.
