@@ -14,6 +14,8 @@ This is a repository to showcase skills, share projects, and track my progress i
 * [Portfolio Projects](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Portfolio%20Projects)
 
    * [Python](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Portfolio%20Projects/Python)
+     
+     * [Estimation of laptop pricies using machine learning](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Portfolio%20Projects/Python/Estimation of 
 
 # 📚 Education
 
