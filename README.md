@@ -1,3 +1,10 @@
 # Swagatalaxmi Das-  Data analysis portfolio
-I have background in Geo-Infomation and Earth Observation and am currently on track to completing my degree in Data Science with Course IBM professional certficate for Data Analyst. 
-Throughout my academic career, I have developed a strong foundation in Geograohic Information System and Remote Sensing and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
+I have background in Geo-Information and Earth Observation and am currently on track to completing my degree in Data Science with Course IBM professional certificate for Data Analyst. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
+Throughout my academic career, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in GIS, remote sensing, data analysis, and machine learning, which I believe will be valuable assets in my role as a data specialist
+In my free time, I enjoy playing around with the data analysis tools. I am always looking for opportunities to expand my knowledge and skills which always encourages me learn various courses. 
+Whether collaborating with a team or working independently, I am always enthusiastic for uncovering insights exploring and extracting meanings from data to tackle complex challenges.
+
+
+📝 My CV (PDF)
+
+This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Data Science-related topics.
