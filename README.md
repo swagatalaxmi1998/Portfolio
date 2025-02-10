@@ -11,16 +11,28 @@ Of ik nu samenwerk met een team of zelfstandig werk, Ik ben altijd enthousiast o
 
 [My CV (PDF)](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Swagatalaxmi%20Das%20CV.pdf)
 
-This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Data Science-related topics.
+This is a repository to showcase skills, share projects, and track my progress in Data Analytics related topics.
 
 # 📌 Table of Contents
 
-* [Portfolio Projects](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Portfolio%20Projects)
+* Portfolio Projects
 
    * [Python](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Portfolio%20Projects/Python)
      
      * [Estimation of laptop pricies using machine learning](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Portfolio%20Projects/Python/Estimation%20of%20laptop%20prices)
+     
+# Portfolio Projects
 
+The projects that I have worked on are listed below:
+
+## Estimation of laptop pricies using machine learning
+**Goal:** Determine the most important variables contributing to laptop prices.  
+
+**Skills:** Data cleaning, data analysis, correlation matrices, regression analysis, hyperparameter tuning.  
+
+**Libraries Used:** Pandas, NumPy, Seaborn, Matplotlib, SciPy, Scikit-learn (sklearn).  
+
+Refer to the respective project folder for detailed description and results.
 
 # 📚 Education
 
