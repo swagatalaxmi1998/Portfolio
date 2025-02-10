@@ -11,13 +11,14 @@ This is a repository to showcase skills, share projects, and track my progress i
 
 #📌 Table of Contents
 
-*[Portfolio Projects](#)
-   *[Python](#)
+* [Portfolio Projects](#)
+
+   * [Python](#)
 
 # 📚 Education
 
 # Contact
 
-*LinkedIn: [@Swagatalaxmi Das](https://www.linkedin.com/in/swagatalaxmi-das-a072a0216)
-*Email: [@iamswagatalaxmi@gmail.com](mailto:iamswagatalaxmi@gmail.com)
+* LinkedIn: [@Swagatalaxmi Das](https://www.linkedin.com/in/swagatalaxmi-das-a072a0216)
+* Email: [@iamswagatalaxmi@gmail.com](mailto:iamswagatalaxmi@gmail.com)
 
