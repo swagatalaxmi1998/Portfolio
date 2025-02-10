@@ -7,6 +7,16 @@ Whether collaborating with a team or working independently, I am always enthusia
 
 [My CV (PDF)](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Swagatalaxmi%20Das%20CV.pdf)
 
-
-
 This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Data Science-related topics.
+
+#📌 Table of Contents
+
+1. [Portfolio Projects](#)
+   [Python](#)
+
+# 📚 Education
+
+# Contact
+LinkedIn: [@Swagatalaxmi Das](https://www.linkedin.com/in/swagatalaxmi-das-a072a0216)
+Email: [@iamswagatalaxmi@gmail.com](mailto:iamswagatalaxmi@gmail.com)
+
