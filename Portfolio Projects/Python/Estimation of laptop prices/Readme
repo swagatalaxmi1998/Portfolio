@@ -1,3 +1,8 @@
+# 🖥️ Laptop Price Prediction
+## 🚀 Data Cleaning
+### 🔍 Handling Missing Data
+#### 📊 Feature Engineering
+
 # Overview
 This project analyzes and predicts laptop prices using machine learning techniques. The dataset contains various specifications of laptops, such as screen size, RAM, weight, processor type, and more. The workflow is divided into three main sections:
 
