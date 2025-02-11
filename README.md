@@ -23,7 +23,7 @@ This is a repository to showcase skills, share projects, and track my progress i
 
    * [SQL](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/SQL)
      
-     * [Chicago crime pattern analysis](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/SQL/Chicago_crime_project)
+     * [Chicago crime pattern analysis](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/SQL/Chicago%20crime%20project)
      
 # Portfolio Projects
 
