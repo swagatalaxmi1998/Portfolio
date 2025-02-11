@@ -20,6 +20,10 @@ This is a repository to showcase skills, share projects, and track my progress i
    * [Python](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Portfolio%20Projects/Python)
      
      * [Estimation of laptop pricies using machine learning](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Portfolio%20Projects/Python/Estimation%20of%20laptop%20prices)
+
+   * [SQL](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/SQL)
+     
+     * [Chicago crime pattern analysis](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/SQL/Chicago_crime_project)
      
 # Portfolio Projects
 
@@ -33,6 +37,14 @@ The projects that I have worked on are listed below:
 **Libraries Used:** Pandas, NumPy, Seaborn, Matplotlib, SciPy, Scikit-learn (sklearn).  
 
 Refer to the respective project folder for detailed description and results.
+
+## Chicago crime pattern analysis
+**Goal:** Analyse the crime pattern in communities of Chicago.  
+
+**Skills:** Indexing, common table expressions, join and aggregate function, extracting information using foreign key , sub-query, analytical functions.  
+
+**Libraries Used:** ipython-sql, prettytable, pandas, sqlite3.
+
 
 # 📚 Education
 
