@@ -28,7 +28,7 @@ This is a repository to showcase skills, share projects, and track my progress i
      
 # Portfolio Projects
 
-The projects that I have worked on are listed below:
+The projects that I have worked on are listed below. Refer to the respective project folder for detailed description and results. 
 
 ## Estimation of laptop pricies using machine learning
 **Goal:** Determine the most important variables contributing to laptop prices.  
@@ -45,6 +45,13 @@ Refer to the respective project folder for detailed description and results.
 **Skills:** Indexing, common table expressions, join and aggregate function, extracting information using foreign key , sub-query, analytical functions.  
 
 **Libraries Used:** ipython-sql, prettytable, pandas, sqlite3.
+
+## Stock data analysis
+**Goal:** Analyse the stock for META (used as an example in this project).  
+
+**Skills:** 
+
+**Libraries Used:** 
 
 
 # 📚 Education
