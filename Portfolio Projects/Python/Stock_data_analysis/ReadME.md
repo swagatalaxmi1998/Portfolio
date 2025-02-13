@@ -33,7 +33,7 @@ To extract revenue data, the `BeautifulSoup` library was used for web scraping, 
 - The revenue table was located and extracted from the parsed HTML.
 - The extracted revenue data was converted into a pandas DataFrame with  `Date` and `Revenue` columns. Symbols like dollar signs and commas were removed, and invalid entries were eliminated.
 
-In this project, a simple analysis was done to visualize the historical stock price and revenue for META using the `make_graph` function.
+In this project, a simple analysis was done to visualize the historical stock price and revenue for META using the `make_graph` function. The graphs are shows separately in `.png` format, [here](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/Python/Stock_data_analysis/Plots) is the link. 
 
 - **Historical Share Price**:
 This graph shows the historical price of Meta's shares over time. The y-axis represents the price in US dollars, and the x-axis represents the date. The graph is commonly used to track the performance of a company's stock over a specific period.
