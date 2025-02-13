@@ -20,6 +20,7 @@ This is a repository to showcase skills, share projects, and track my progress i
    * [Python](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Portfolio%20Projects/Python)
      
      * [Estimation of laptop pricies using machine learning](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Portfolio%20Projects/Python/Estimation%20of%20laptop%20prices)
+     * [META stock analysis](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/Python/Stock_data_analysis)
 
    * [SQL](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/SQL)
      
