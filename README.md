@@ -4,7 +4,7 @@ Throughout my academic career, I honed my ability to work with complex data and 
 In my free time, I enjoy playing around with the data analysis tools. I am always looking for opportunities to expand my knowledge and skills which always encourages me learn various courses. 
 Whether collaborating with a team or working independently, I am always enthusiastic for uncovering insights exploring and extracting meanings from data to tackle complex challenges.
 
-# Dutch
+# Nederlands
 Ik heb Geo-informatie en Aardobservatie afgerond en ben momenteel bezig met het afronden van de professionele certificaatcursus van IBM Data Analyst. Ik ben enthousiast om mijn technische en analytische vaardigheden in te zetten als dataspecialist op instapniveau.
 Tijdens mijn studie heb ik de vaardigheden ontwikkeld om met complexe data te werken en patronen en trends te vergelijken. Ook heb ik ervaring met GIS, remote sensing, data-analyse en machine learning. Ik geloof dat dit vaardigheden me zullen helpen in mijn rol als dataspecialist.
 Of ik nu samenwerk met een team of zelfstandig werk, Ik ben altijd enthousiast over het ontdekken van inzichten uit data om ingewikkelde uitdagingen aan te pakken.
