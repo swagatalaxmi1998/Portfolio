@@ -49,9 +49,9 @@ Refer to the respective project folder for detailed description and results.
 ## Stock data analysis
 **Goal:** Analyse the stock for META (used as an example in this project).  
 
-**Skills:** 
+**Skills:** Web scraping, API data extraction, time series analysis, data cleaning, data visualization, function creation, debugging
 
-**Libraries Used:** 
+**Libraries Used:** yfinance, pandas, BeautifulSoup, requests, Matplotlib, Plotly.
 
 
 # 📚 Education
