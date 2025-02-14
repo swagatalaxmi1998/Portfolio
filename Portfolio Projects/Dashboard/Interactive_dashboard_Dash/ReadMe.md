@@ -1,4 +1,4 @@
-# Wildfire Watch Australia
+# Wildfire Watch: Australia
 
 # Overview
 This is an interactive dashboard built using Dash and Plotly to visualize historical wildfire data in Australia. Users can select a region and year to view trends in wildfire activity.
