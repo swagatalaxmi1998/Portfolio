@@ -25,6 +25,10 @@ This is a repository to showcase skills, share projects, and track my progress i
    * [SQL](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/SQL)
      
      * [Chicago crime pattern analysis](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Portfolio%20Projects/SQL/Chicago_crime_project.ipynb)
+    
+  * [Dashboard](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/Dashboard)
+    
+    * [Wildfire Watch: Australia](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/Dashboard/Interactive_dashboard_Dash)
      
 # Portfolio Projects
 
@@ -52,6 +56,13 @@ Refer to the respective project folder for detailed description and results.
 **Skills:** Web scraping, API data extraction, time series analysis, data cleaning, data visualization, function creation, debugging
 
 **Libraries Used:** yfinance, pandas, BeautifulSoup, requests, Matplotlib, Plotly.
+
+## Wildfire Watch: Australia
+**Goal:** Analyze historical wildfire data in Australia to visualize trends in estimated fire area and vegetation fire activity across different regions and years.
+
+**Skills:** Web Application Development, debugging, data visualization.
+
+**Libraries Used:** Pandas, plotly, dash.
 
 
 # 📚 Education
