@@ -29,6 +29,7 @@ This is a repository to showcase skills, share projects, and track my progress i
   * [Dashboard](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/Dashboard)
     
     * [Wildfire Watch: Australia](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/Dashboard/Interactive_dashboard_Dash)
+    * [Car Resale & Performance Analytics](https://github.com/swagatalaxmi1998/Portfolio/tree/main/Portfolio%20Projects/Dashboard/Excel_dashboard)
      
 # Portfolio Projects
 
@@ -64,6 +65,12 @@ Refer to the respective project folder for detailed description and results.
 
 **Libraries Used:** Pandas, plotly, dash.
 
+## Car Resale & Performance Analytics
+**Goal:** Develop an interactive Excel dashboard to analyze car sales.
+
+**Skills:** Data visualization, Excel dashboard design, pivot tables, interactive filtering.
+
+**Tools Used:** Excel, Pivot Tables, Charts (Column, Area, Pie, Bar, Line, Sunburst), Slicers.
 
 # 📚 Education
 
