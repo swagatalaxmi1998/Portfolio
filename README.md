@@ -25,6 +25,7 @@ This is a repository to showcase skills, share projects, and track my progress i
    * [SQL](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/SQL)
      
      * [Chicago crime pattern analysis](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/blob/main/Portfolio%20Projects/SQL/Chicago_crime_project.ipynb)
+     * [Data visualization using histogram](https://github.com/swagatalaxmi1998/Portfolio/tree/main/Portfolio%20Projects/SQL/Data_visualization)
     
   * [Dashboard](https://github.com/swagatalaxmi1998/Data-Analysis-Portfolio/tree/main/Portfolio%20Projects/Dashboard)
     
@@ -44,6 +45,13 @@ The projects that I have worked on are listed below. Refer to the respective pro
 
 Refer to the respective project folder for detailed description and results.
 
+## META stock data analysis
+**Goal:** Analyse the stock for META (used as an example in this project).  
+
+**Skills:** Web scraping, API data extraction, time series analysis, data cleaning, data visualization, function creation, debugging
+
+**Libraries Used:** yfinance, pandas, BeautifulSoup, requests, Matplotlib, Plotly.
+
 ## Chicago crime pattern analysis
 **Goal:** Analyse the crime pattern in communities of Chicago.  
 
@@ -51,12 +59,12 @@ Refer to the respective project folder for detailed description and results.
 
 **Libraries Used:** ipython-sql, prettytable, pandas, sqlite3.
 
-## Stock data analysis
-**Goal:** Analyse the stock for META (used as an example in this project).  
+## Data visualization using histogram
+**Goal:** Analyze and visualize data distributions using histograms to uncover trends in coding experience, compensation, and work preferences.
 
-**Skills:** Web scraping, API data extraction, time series analysis, data cleaning, data visualization, function creation, debugging
+**Skills:** Data cleaning, data analysis, SQL querying, data normalization, data encoding, histogram visualization.
 
-**Libraries Used:** yfinance, pandas, BeautifulSoup, requests, Matplotlib, Plotly.
+**Libraries Used:** Pandas, sqlite3, Matplotlib, Seaborn, NumPy.
 
 ## Wildfire Watch: Australia
 **Goal:** Analyze historical wildfire data in Australia to visualize trends in estimated fire area and vegetation fire activity across different regions and years.
