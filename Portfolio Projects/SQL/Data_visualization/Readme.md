@@ -20,13 +20,14 @@ This project focuses on data visualization using histograms. It utilizes a SQLit
 
 ## Data Cleaning:
 
--	Removal of missing values (nan) using `.dropna`
--	Removal of empty rows
+-	Removal of missing values (nan) using `.dropna`.
+-	Imputation of missing values (mean/median/mode).
+-	Removal of empty rows.
 -	Spitting of data for column `DatabaseWantToWorkWith` using `.str.split(';')` to separate the information joined by ‘;’.
 
 ## Normalization:
 
-•	`CompTotal` column was normalized using a logarithmic transformation
+•	`CompTotal` column was normalized using a logarithmic transformation.
 
 ## Data encoding 
 
