@@ -5,24 +5,24 @@ This project focuses on data visualization using histograms. It utilizes a SQLit
 
 ## Features
 
-•	Downloads a SQLite database file.
-•	Connects to the SQLite database.
-•	Extracts relevant data using SQL queries.
-•	Uses Pandas for data manipulation.
-•	Generates histograms to visualize data distribution.
+- Downloads a SQLite database file.
+- Connects to the SQLite database.
+- Extracts relevant data using SQL queries.
+- Uses Pandas for data manipulation.
+- Generates histograms to visualize data distribution.
 
 ## Technologies Used
 
-•	Python
-•	Pandas
-•	SQLite
-•	Matplotlib/Seaborn (for visualization)
+-	Python
+-	Pandas
+-	SQLite
+-	Matplotlib/Seaborn (for visualization)
 
 ## Data Cleaning:
 
-•	Removal of missing values (nan) using `.dropna`
-•	Removal of empty rows
-•	Spitting of data for column `DatabaseWantToWorkWith` using `.str.split(';')` to separate the information joined by ‘;’.
+-	Removal of missing values (nan) using `.dropna`
+-	Removal of empty rows
+-	Spitting of data for column `DatabaseWantToWorkWith` using `.str.split(';')` to separate the information joined by ‘;’.
 
 ## Normalization:
 
