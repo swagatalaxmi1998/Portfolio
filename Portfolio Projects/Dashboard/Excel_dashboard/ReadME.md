@@ -35,7 +35,7 @@ In terms of performance,  **Land Cruiser** stands out with the highest engine ef
 When it comes to market demand,  **Camry** leads in unit sales, reflecting its popularity among consumers. **Corolla** follows closely, underscoring its status as a highly sought-after model within Toyota's lineup. These insights collectively highlight Toyota's strong position in the automotive market, driven by its reliable performance, enduring value, and consumer preference.
 
 Snippet of the dashboard is shown here:
-![image](https://github.com/user-attachments/assets/9dc4af5d-ad8a-4cf8-ac2c-42f0551937f0)
+![image](https://github.com/user-attachments/assets/7070234c-5fd1-49b4-8795-149a426e4f59)
 
 To utilize the workbook dashboard effectively, please refer to [Usage](#usage) section for instructions.
 
