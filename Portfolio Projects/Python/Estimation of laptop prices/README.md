@@ -60,7 +60,7 @@ Parameters `GPU`, `CPU_core`, and `Price` are grouped to make a pivot table and 
 - Ridge Regression
 - Grid search using `GridSearchCV`
 - Standardized features using `StandardScaler().fit_transform(df[['RAM_Size', 'Weight_kg']]`
-- 
+
 ### Simple linear regression
 `CPU_frequency` was identified as the feature with the **lowest p-value**. A **simple linear regression** model was built using `LinearRegression().fit(X_train, y_train)` for `CPU_frequency` as the sole predictor.  
 
